@@ -22,5 +22,8 @@ doc/
 .project
 .DS_Store
 .idea
-/config/initializers/secret_token.rb
 .secret
+.env
+
+# Ignore application configuration
+/config/application.yml
